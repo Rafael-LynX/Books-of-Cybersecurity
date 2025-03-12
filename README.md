@@ -15,7 +15,7 @@ Escolha o livro de seu interesse e clique nele e faça o download ou faça downl
 
 ```bash
 # Clonando este repositório
-$ git clone https://github.com/Rafael-LynX/Books-of-Linkedln.git
+$ git clone https://github.com/Rafael-LynX/Books-of-Cybersecurity.git
 ```
 
 ## 🏆 Autor
